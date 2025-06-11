@@ -1,0 +1,1 @@
+# Event-Management-and-Resource-Allocation-Platform
