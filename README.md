@@ -1,21 +1,20 @@
 # Event-Management-and-Resource-Allocation-Platform
-📌 Project 2: Event Management and Resource Allocation Platform
 🧾 Overview
 A full-stack system to manage events, allocate staff and resources, and allow interaction between clients, planners, and venue staff. Built using Spring Boot, Angular, and MySQL.
 
 🖥️ Tech Stack
-Backend: Spring Boot, Spring Security, JPA, MySQL, JWT
+'Backend': Spring Boot, Spring Security, JPA, MySQL, JWT
 
-Frontend: Angular
+'Frontend': Angular
 
-Security: JWT-based authentication and role-based authorization
+'Security': JWT-based authentication and role-based authorization
 
 👥 User Roles
-Planners: Create and manage events, allocate resources
+'Planners': Create and manage events, allocate resources
 
-Venue Staff: Oversee event setups
+'Venue Staff': Oversee event setups
 
-Clients: View bookings and receive updates
+'Clients': View bookings and receive updates
 
 ✅ Key Features
 Role-based registration and login
